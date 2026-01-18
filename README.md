@@ -1,1 +1,1 @@
-# cyber-rss
+https://www.schneier.com/
