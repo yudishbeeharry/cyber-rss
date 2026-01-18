@@ -1,2 +1,4 @@
-https://www.schneier.com/
-https://infosec.exchange/@r1cksec
+https://www.schneier.com/</br>
+https://infosec.exchange/@r1cksec</br>
+https://deceptiq.com/blog</br>
+https://talkback.sh</br>
