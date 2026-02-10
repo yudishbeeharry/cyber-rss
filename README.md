@@ -7,4 +7,5 @@ https://malpedia.caad.fkie.fraunhofer.de/library</br>
 https://thetrueartist.co.uk</br>
 https://ddosecrets.com/<br/>
 https://databreaches.net<br/>
-https://threats.wiz.io/all-incidents
+https://threats.wiz.io/all-incidents<br>
+https://blog.badsectorlabs.com/<br>
