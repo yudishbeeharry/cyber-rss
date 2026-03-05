@@ -9,3 +9,4 @@ https://ddosecrets.com/<br/>
 https://databreaches.net<br/>
 https://threats.wiz.io/all-incidents<br>
 https://blog.badsectorlabs.com/<br>
+https://cloud.google.com/blog/topics/threat-intelligence<br>
